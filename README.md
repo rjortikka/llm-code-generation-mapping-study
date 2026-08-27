@@ -55,3 +55,15 @@ Each of these takes one or more extraction fields and works them into the classi
 
 `validation_analysis.xlsx` has a Notes sheet documenting its own matching and normalisation rules in full.
 
+### Raw search exports
+
+`search_exports/` holds the unmodified exports from each database, as retrieved in early February 2026. Together they contain the records that entered title screening.
+
+| File | Database | Records |
+|---|---|---|
+| `acm_results.xlsx` | ACM Digital Library | 530 |
+| `IEEE_results.xlsx` | IEEE Xplore | 997 |
+| `ScienceDirect_results.xlsx` | ScienceDirect | 1,058 |
+| `Scopus.xlsx` | Scopus | 1,137 |
+| `Springer_results.xlsx` | Springer Nature | 956 |
+
