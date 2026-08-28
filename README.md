@@ -67,3 +67,6 @@ Each of these takes one or more extraction fields and works them into the classi
 | `Scopus.xlsx` | Scopus | 1,137 |
 | `Springer_results.xlsx` | Springer Nature | 956 |
 
+### Prompts
+
+`extraction_prompt.txt` is the prompt supplied to DeepSeek-V3.1 with each paper's full text for the first-pass extraction.
