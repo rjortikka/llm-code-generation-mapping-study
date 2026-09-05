@@ -27,7 +27,7 @@ Each of these takes one or more extraction fields and works them into the classi
 | `benchmark_analysis.xlsx` | Benchmark usage by type: existing only, new only, new plus existing, source platform, or none. |
 | `resource_catalog.xlsx` | Catalogue of named datasets and benchmarks with per-resource usage counts and co-occurrence among the ten most common. |
 | `metrics_analysis.xlsx` | Performance dimensions and named evaluation metrics, with a by-year breakdown. |
-| `validation_analysis.xlsx` | Validation methodology across ten dimensions, and the named statistical procedures reported by each study. |
+| `validation_analysis.xlsx` | Validation methodology across nine dimensions, reported over both the 565 primary studies and all 613, with the named statistical procedures each study reports. |
 | `model_frequency_counts.xlsx` | LLM usage by vendor and by individual model, with the full vocabulary of model-name strings found in the corpus. |
 | `output_language_analysis.xlsx` | Target programming languages, per study and aggregated. |
 
